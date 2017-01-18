@@ -1,0 +1,617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"display",
+				"displayNotes"
+			],
+			[
+				"s",
+				"slider"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"Win",
+				"windowHeight"
+			],
+			[
+				"sel",
+				"selectedInput"
+			],
+			[
+				"sust",
+				"sustainLevel"
+			],
+			[
+				"create",
+				"createGain"
+			],
+			[
+				"crea",
+				"createGainNode"
+			],
+			[
+				"cre",
+				"createGain"
+			],
+			[
+				"fr",
+				"frequency"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"mast",
+				"masterCtl"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"ei",
+				"eightNoteTime"
+			],
+			[
+				"bu",
+				"bufferList"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"play",
+				"playSound"
+			],
+			[
+				"sour",
+				"source2"
+			],
+			[
+				"sou",
+				"source1"
+			],
+			[
+				"so",
+				"source2"
+			],
+			[
+				"buff",
+				"bufferList"
+			],
+			[
+				"c",
+				"createBufferSource"
+			],
+			[
+				"Audio",
+				"AudioContext"
+			],
+			[
+				"Au",
+				"AudioContext"
+			],
+			[
+				"context",
+				"contextClass"
+			],
+			[
+				"th",
+				"theBuffer"
+			],
+			[
+				"choo",
+				"chooseYear"
+			],
+			[
+				"sele",
+				"selection"
+			],
+			[
+				"years",
+				"yearsraw"
+			],
+			[
+				"max",
+				"max_name"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Au",
+		"selected_items":
+		[
+			[
+				"Au",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Repository"
+			],
+			[
+				"Auto",
+				"Autoprefix CSS"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"A",
+				"Autoprefix CSS"
+			],
+			[
+				"Package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_oldSite/elements/nav_old.php",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_oldSite/index.php",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/css/scsp.css",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/README.md",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_layout/doc_sience.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/scss/app.scss",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/.gitignore",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/scss/_settings.scss",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/scss/_scsp_01.scss",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/css/scsp_01.css",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_layout/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_layout/dates.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/dates.php",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/README.md",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_layout/about.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/js/vendor/foundation.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_site/head.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_site/elements/header.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_site/elements/nav.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_site/index.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_site/elements/nav_test.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_layout/elements/header.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_layout/elements/footer.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_synthjs/README.md",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/vilab_webeditoren/ace-builds/editor.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_web_editor1/js/editor.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_web_editor1/index_02.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_web_editor1/index_01.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_web_editor1/README.md",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_synthjs/js/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/synthjs/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/newton_circle/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/synthonic-spiral/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/vilab_editor1 Kopie/ace_editor1.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/vilab_diagram_synthonic_circle_01/js/sketch_05.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/vilab_diagram_synthonic_circle_01/js/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/synthonic-circle/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/descartes_hexachords/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/js/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/synthjs/js/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/css/styles.css",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/js/sketch_05.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_newton_circle_01/js/sketch_03.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/diagram_synthonicgrid_04_test2.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/diagram_synthonicgrid_04_test1.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/diagram_synthonicgrid_05.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_newton_circle_01/diagram_daniel3.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_synthjs/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/js/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio_tutorials_01/js/sketch_15.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio_tutorials_01/example_15.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/index_04.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/css/styles.css",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio_tutorials_01/js/setaudio.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/js/sketch_04.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/js/sketch_02.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_editor1/css/editor.css",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_editor1/js/editor.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_editor1/ace_editor2.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/index_02.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/css/normalize.css",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/js/sketch_01.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_newton_circle_01/diagram_daniel2.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_newton_circle_01/css/styles.css",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_template_webaudio/js/sketch.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_newton_circle_01/diagram_daniel1.html",
+		"/Users/rvogtenh/.Trash/diagram_daniel1.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_descartes_hexachord_01/index_01.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_descartes_hexachord_01/js/sketch_02.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1/index_02.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1/js/sketch_02.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1/js/sketch_01.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel4/diagram_chromatic_spiral_01.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel4/diagram_chromatic_spiral_02.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel4/js/sketch_01.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel4/js/sketch_02.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel4/diagram_synthonicgrid_01.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/buffers.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel3/diagram_synthonicgrid_04_test2.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel3/js/sketch_04_test1.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel3/js/sketch_04_test2.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel3/diagram_synthonicgrid_01.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel3/js/sketch_04.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_15.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/example_15.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_13.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_16.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/example_16.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_14.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/vendor/MIDI.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/example_14.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel3/js/sketch_02.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel2/js/sketch_02.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_test/js/sketch_05.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel3/diagram_synthonicgrid_02.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel3/js/sketch_01.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_test/diagram_05.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel1/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_11.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_01.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/example_13.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/example_12.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_06.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_07.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/example_07.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_08.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/example_05.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/example_04.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_04.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/bufferloader.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/setaudio.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel2/js/sketch_01.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_02.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio1/js/sketch_00.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel2/diagram_daniel2.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel2/diagram_daniel1.html",
+		"/Users/rvogtenh/Sites/testsites/www/d3_babynames/index_04.html",
+		"/Users/rvogtenh/Sites/testsites/www/d3_babynames/js/chart_04.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel2/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel2/css/styles.css",
+		"/Users/rvogtenh/Desktop/test.html",
+		"/Users/rvogtenh/Sites/testsites/www/responsiv_book/kap09/10_multilevel-mitJS/html/navitest-04.html",
+		"/Users/rvogtenh/Sites/testsites/www/d3_babynames/css/normalize.css",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel1/diagram_daniel2.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_d3-diagram1/js/script1.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_daniel1/js/sketch_02.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vilab",
+			"vimu/",
+			"\t\n",
+			", ",
+			"+",
+			"print",
+			"$root",
+			"php",
+			"view",
+			"show",
+			"form",
+			"onload",
+			"initAudio",
+			"Midi",
+			":",
+			"Midi",
+			"MIDI",
+			"Midi",
+			"MIDI",
+			"Midi",
+			"midi",
+			"Midi",
+			"midi",
+			"Midi",
+			"midi",
+			"Midi",
+			"midi",
+			"Midi",
+			"midi",
+			"Midi",
+			"MIDI",
+			"Midi",
+			"midi",
+			"Midi",
+			"MIDI",
+			"Midi",
+			"this.synth",
+			"Sound.ctl",
+			"Sound.view",
+			"Sound.set",
+			"Sound.master",
+			"hold",
+			"Hold",
+			"hold",
+			"Hold",
+			"hold",
+			"Hold",
+			"hold",
+			"Hold",
+			"hold",
+			"synth",
+			"this",
+			"if (this.wave) ",
+			"this",
+			"(e)",
+			"this",
+			"elements[i]",
+			"[field]",
+			"Sound",
+			"settings",
+			".pop()",
+			"value",
+			"id",
+			"select1",
+			"par",
+			"e",
+			"div",
+			"universe",
+			"element",
+			"headline",
+			"dot[zahl][i]",
+			"svg",
+			"dot",
+			"svg",
+			"circle",
+			"slider",
+			"view",
+			"Sound",
+			"ocument.getElementById('synth');",
+			"select1",
+			"oscSelect",
+			"*b",
+			"*a",
+			"};\n",
+			"relation",
+			"a",
+			"*relation",
+			"relation",
+			"*y",
+			"*x",
+			"instructions",
+			"diagram.height",
+			"diagram.width",
+			"diagram",
+			"digram",
+			"diagram.width",
+			"windowWidth",
+			"windowHeight",
+			"div",
+			"section",
+			"div",
+			"var",
+			"relation",
+			"envelopeGain",
+			"sustainLevel",
+			"gainNode",
+			"osc",
+			"myScore_12",
+			"id_c_scale",
+			"myScore",
+			"c_score",
+			"chord",
+			"dt",
+			"var t",
+			"t",
+			"dt",
+			"id_c_scoreKey_53",
+			"id_c_scoreKey",
+			"playChord",
+			"p_key",
+			"print",
+			"playChord",
+			"p_key",
+			"playNote",
+			"pitchToFreq",
+			"playScore",
+			"pl_score",
+			"playChord"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "one.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"responsiv_book/kap09/10_multilevel-mitJS/html/navitest-04.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
